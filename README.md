@@ -21,5 +21,8 @@
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
 
+#### My github stats
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Di-santos&show_icons=true&theme=dracula)](https://github.com/Di-santos)
+
 #### Portfolio
 You can access a more complete version of this section clicking [here](https://di-santos.github.io/me)
