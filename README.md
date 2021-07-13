@@ -1,7 +1,7 @@
 ## Hi, my name is Diogo!
-- 19 years old.
-- Currently an undergraduate student at UNICAMP.
-- IT Project Advisor at Atria.
+- 19 years old
+- Currently an undergraduate student at UNICAMP (4/8)
+- IT Project Advisor at Atria
 
 #### Already used (basics)
 &nbsp;
