@@ -17,6 +17,7 @@
 
 ### Currently learning
 &nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=D8DF2E" alt="Firebase logo" title="Firebase" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
