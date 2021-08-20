@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
+<img src="https://img.shields.io/badge/Prisma-282C34?logo=Prisma&logoColor=FFFFFF" alt="Prisma logo" title="Prisma" height="25" />
 
 ### Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Di-santos&show_icons=true&theme=dracula)](https://github.com/Di-santos)
