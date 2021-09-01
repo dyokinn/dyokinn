@@ -21,7 +21,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=black)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-0FA54D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphQL-02569B?style=for-the-badge&logo=graphQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0175C2?style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ### What I intend to learn in a near future
 &nbsp;
@@ -34,13 +33,13 @@
   <summary><b> Projects <b> </summary>
     
   #### [Memórias Covid19](https://memoriascovid19.unicamp.br) <br/>
-  -> A high-impact social project that act as a memorial for reports shared by people during the pandemics. I acted in this project during two months, mainly with React and materialUI in the frontend and barely with node/typeORM in the backend. <br/>
+  -> A high social-impact project that act as a memorial for reports shared by people during the pandemics. I worked in this project during two months, mainly with React and materialUI in the frontend and barely with node/typeORM in the backend. <br/>
    
-  #### [Data Analysis](https://github.com/Di-santos/Data-Science-Projects) <br/>
-  -> A project made with [Jhones](https://github.com/JhonesBR) as evaluation criteria in a subject in UNICAMP. You can find more details on the project Readme (link above).<br/>
+  #### [Introductory Data Science Project](https://github.com/Di-santos/Data-Science-Projects) <br/>
+  -> A project made with [Jhones](https://github.com/JhonesBR) as a evaluation criteria for subject in UNICAMP, in which we learned about data visualization and machine learning. You can find more details on the project Readme (link above).<br/>
     
   #### [Featmaker Bot](https://github.com/Di-santos/Featmaker-Bot-Twitter) <br/>
-  -> A node.js twitter bot that posts random feats periodically, currently hosted on Heroku. <br/>
+  -> A node.js twitter bot that posts random feats periodically, currently hosted on Heroku and active in [@FeatmakerBot](https://twitter.com/FeatmakerBot). <br/>
     
 </details>
     
