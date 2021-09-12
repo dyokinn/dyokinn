@@ -20,13 +20,13 @@
 ![Next.js](https://img.shields.io/badge/Next-f0f0f0?style=for-the-badge&logo=next.js&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=black)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-0FA54D?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphQL-02569B?style=for-the-badge&logo=graphQL&logoColor=white)
 
 ### What I intend to learn in a near future
 &nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DCFB)
+![GraphQL](https://img.shields.io/badge/graphQL-02569B?style=for-the-badge&logo=graphQL&logoColor=white)
 
 ### Cool things i've been into so far
 <details>
