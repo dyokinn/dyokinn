@@ -2,7 +2,6 @@
 - 19 years old
 - Currently an undergraduate student at UNICAMP (4/8)
 - IT Project Advisor at Atria
-- Looking for an internship
 
 ### Already used technologies (basics)
 &nbsp;
