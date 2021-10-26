@@ -24,7 +24,8 @@
 &nbsp;
 ![Next.js](https://img.shields.io/badge/Next-f0f0f0?style=for-the-badge&logo=next.js&logoColor=black)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-0FA54D?style=for-the-badge&logo=mongodb&logoColor=white)
-![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DCFB)
+![Rust](https://img.shields.io/badge/Rust-02569B?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphQL-02569B?style=for-the-badge&logo=graphQL&logoColor=white)
 
 ### Cool things i've been into so far
