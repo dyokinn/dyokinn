@@ -41,6 +41,8 @@
   #### [Featmaker Bot](https://github.com/Di-santos/Featmaker-Bot-Twitter) <br/>
   -> A node.js twitter bot that posts random feats periodically, currently hosted on Heroku and active in [@FeatmakerBot](https://twitter.com/FeatmakerBot). <br/>
     
+  #### [Deployed in my own shitcoin + ethereum testnet](https://github.com/Di-santos/Featmaker-Bot-Twitter) <br/>
+  -> Coming soon <br/>
 </details>
     
 <details>
