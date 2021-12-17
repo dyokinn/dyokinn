@@ -19,13 +19,13 @@
 &nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### What I intend to learn in a near future
 &nbsp;
 ![Next.js](https://img.shields.io/badge/Next-f0f0f0?style=for-the-badge&logo=next.js&logoColor=black)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-0FA54D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-02569B?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphQL-02569B?style=for-the-badge&logo=graphQL&logoColor=white)
 
 ### Cool things i've been into so far
