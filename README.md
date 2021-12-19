@@ -33,7 +33,7 @@
   <summary><b> Projects <b> </summary>
     
   #### [Memórias Covid19](https://memoriascovid19.unicamp.br) <br/>
-  -> A high social-impact project that act as a memorial for reports shared by people during the pandemics. I worked in this project during two months, mainly with React and materialUI in the frontend and barely with node/typeORM in the backend. <br/>
+  -> A high-impact social project that act as a memorial for reports shared by people around the world during the pandemics. I worked in this project during seven months, mainly with React and materialUI in the frontend and barely with node/typeORM in the backend. <br/>
    
   #### [Introductory Data Science Project](https://github.com/Di-santos/Data-Science-Projects) <br/>
   -> A project made with [Jhones](https://github.com/JhonesBR) as a evaluation criteria for subject in UNICAMP, in which we learned about data visualization and machine learning. You can find more details on the project Readme (link above).<br/>
@@ -41,8 +41,6 @@
   #### [Featmaker Bot](https://github.com/Di-santos/Featmaker-Bot-Twitter) <br/>
   -> A node.js twitter bot that posts random feats periodically, currently hosted on Heroku and active in [@FeatmakerBot](https://twitter.com/FeatmakerBot). <br/>
     
-  #### [Deployed in my own shitcoin + ethereum testnet](https://github.com/Di-santos/Featmaker-Bot-Twitter) <br/>
-  -> Coming soon <br/>
 </details>
     
 <details>
@@ -54,6 +52,9 @@
   #### [MIT Python Bootcamp](https://github.com/Di-santos/MIT-Python-Exercises-IPL-2021) <br/>
   -> A bootcamp of two weeks made in a partnership between MIT and UNICAMP. You can find more details about it in the link above <br/>
   
+  #### [Deployed in my own crypto token + ethereum testnet](https://info.morpheusswap.app/pair/0x5e929428ed525e69468295e65f6a9bff69207953) <br/>
+  -> I got engaged in a brazilian web3 festival which was giving NFT's for people which deployed their own Tokens on Fantom network(ETH fork) and added a liquidity pool for them.
+  -> I also have a repo with a web3 playground that [can be found here:](https://github.com/Di-santos/Solidity-playground)
 </details>
 
 ### Stats
