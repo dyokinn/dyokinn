@@ -60,7 +60,7 @@
 </details>
 
 ### Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Di-santos&show_icons=true&theme=dracula)](https://github.com/Di-santos)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Di-santos&show_icons=true&theme=dracula)](https://github.com/Di-santos) <br/>
 
 ### Portfolio
 You can access a more complete version of this section clicking [here](https://di-santos.github.io/me)
