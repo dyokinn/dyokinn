@@ -55,7 +55,7 @@
   -> A bootcamp of two weeks made in a partnership between MIT and UNICAMP. You can find more details about it in the link above <br/>
   
   #### [Deployed in my own crypto token + ethereum testnet](https://info.morpheusswap.app/pair/0x5e929428ed525e69468295e65f6a9bff69207953) <br/>
-  -> I got engaged in a brazilian web3 festival which was giving NFT's for people which deployed their own Tokens on Fantom network(ETH fork) and added a liquidity pool for them. <br/>
+  -> I got engaged in a brazilian web3 festival which was giving NFT's for people which deployed their own Tokens on Fantom network (like an ETH fork) and added a liquidity pool for them. <br/>
   -> I also have a repo with a web3 playground that [can be found here](https://github.com/Di-santos/Solidity-Playground)
 </details>
 
