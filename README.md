@@ -3,26 +3,19 @@
 - Currently an undergraduate student at UNICAMP (5/8)
 - IT Project Advisor at Atria
 
-### I have some notions of (basics)
+### Already used technologies (basics)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AD?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0175C2?style=for-the-badge&logo=docker&logoColor=white)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-0FA54D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-f0f0f0?style=for-the-badge&logo=next.js&logoColor=black)
 
-### Already used technologies (basics)
-&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-DC712B?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### Currently using 
+### Currently working with 
 &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-8BBF3D?style=for-the-badge&logo=node.js&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-DC712B?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### What I intend to learn in a near future
