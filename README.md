@@ -6,7 +6,6 @@
 ### Already used technologies (basics)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AD?style=for-the-badge&logo=python&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-0FA54D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-f0f0f0?style=for-the-badge&logo=next.js&logoColor=black)
 
 ### Currently working with 
