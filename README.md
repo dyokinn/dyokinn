@@ -1,7 +1,6 @@
 ## Hello, my name is Diogo!
 - 20 years old
 - Currently an undergraduate student at UNICAMP (6/8)
-- IT Project Advisor at Atria
 
 ### Already used technologies (basics)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
