@@ -11,7 +11,6 @@
 
 ### Currently working with 
 &nbsp;
-
 ![Node](https://img.shields.io/badge/Node.js-8BBF3D?style=for-the-badge&logo=node.js&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-DC712B?style=for-the-badge&logo=mysql&logoColor=white)
