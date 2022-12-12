@@ -1,6 +1,6 @@
 ## Hello, my name is Diogo!
 - 20 years old
-- Currently an undergraduate student at UNICAMP (6/8)
+- Currently an undergraduate student at UNICAMP (7/8)
 - Intern at EMBRAER
 
 ### Already used technologies (basics)
@@ -9,19 +9,14 @@
 ![Docker](https://img.shields.io/badge/Docker-0175C2?style=for-the-badge&logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-8BBF3D?style=for-the-badge&logo=node.js&logoColor=black)
 
 ### Currently working with 
 &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-8BBF3D?style=for-the-badge&logo=node.js&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AD?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1386KD?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-DC712B?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### What I intend to learn in a near future
-&nbsp;
-![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphQL-02569B?style=for-the-badge&logo=graphQL&logoColor=white)
 
 ### Cool things i've been into so far
 <details>
@@ -51,9 +46,3 @@
   -> I got engaged in a brazilian web3 festival which was giving NFT's for people which deployed their own Tokens on Fantom network (like an ETH fork) and added a liquidity pool for them. <br/>
   -> I also have a repo with a web3 playground that [can be found here](https://github.com/dyokinn/Solidity-Playground)
 </details>
-
-### Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=dyokinn&show_icons=true&theme=dracula)](https://github.com/dyokinn) <br/>
-
-### Portfolio
-You can access a more complete version of this section clicking [here](https://dyokinn.github.io/me)
