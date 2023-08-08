@@ -1,11 +1,12 @@
 ## Hello, my name is Diogo!
-- 20 years old
+- 21 years old
 - Currently an undergraduate student at UNICAMP (7/8)
 - Intern at EMBRAER
 
 ### Currently working with 
 &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AD?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1386KD?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
@@ -13,7 +14,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-DC712B?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Already used technologies (basics)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-f0f0f0?style=for-the-badge&logo=next.js&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0175C2?style=for-the-badge&logo=docker&logoColor=white)
