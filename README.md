@@ -1,6 +1,6 @@
 ## Hello, my name is Diogo!
 - 21 years old
-- Currently an undergraduate student at UNICAMP (7/8)
+- Currently an undergraduate student at UNICAMP (8/8)
 - Intern at EMBRAER
 
 ### Currently working with 
